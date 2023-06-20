@@ -53,8 +53,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/7te3ep/7te3ep/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
