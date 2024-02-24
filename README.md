@@ -8,6 +8,7 @@
 - 📫 You can reach me on discord as **7te3ep**
 
 These are some of my projects : 
+
 🍃 [Plant Together](https://plant-together.netlify.app/)
 => An anonymous, ephemeral,chat. Its use makes a unique plant grow using an L system and lerp implementation.
 
