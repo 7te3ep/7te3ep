@@ -1,43 +1,89 @@
-<h1 align="center">Hi 👋, I'm 7te3ep</h1>
-<h3 align="center">French developer, fan of ecosystem simulation</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [Taoqartes](https://taoqan.fandom.com/fr/wiki/Les_Taoqartes)
+![banner](/banner.png)
 
-- 🌱 I’m currently learning **DiscordJS, C, and design patterns**
+**`French dev · Curious about everything, privacy-obsessed`**
 
-- 📫 You can reach me on discord as **7te3ep**
+</div>
 
-These are some of my projects : 
+## whoami
 
-🍃 [Plant Together](https://plant-together.netlify.app/)
-=> An anonymous, ephemeral,chat. Its use makes a unique plant grow using an L system and lerp implementation.
+JS developer based in France. I'm drawn to everything that touches **privacy**, **data leakage**, and **side-channel attacks** — from timing attacks to traffic analysis, anything that reveals what shouldn't be visible.
 
-🐦 [Flappy bird 3d](https://7te3ep.github.io/flappyRTX/)
-=> Flappy bird FPS with three js !
+Lately I've been drifting toward the research side of things.
 
-🎃 [Night Pursuit](https://7te3ep.itch.io/night-pursuit)
-=> A game made for the Mini Jam.
+Currently digging into:
+- 🌐 **Public DNS caching / infra**
+- 🗺️ **OSINT-based geolocation** — isochrone, clustering, infering locations from open data
+- 📡 **Side-channel attacks** — fitness app data, job posting patterns
 
-🌐 [Geobro](https://geobro.online)
-=> A cross platform multiplayer geography game web app. In pure html css js !
+---
 
-🃏 [Taoqartes](https://taoqan.fandom.com/fr/wiki/Les_Taoqartes)
-=> Card collecting discord bot, in discord js for Taoqan.
+## 📖 Currently learning
 
-🐰 [Lapins pas cretins](https://7te3ep.github.io/Lapins_Pas_Cretins/sources/front/index.html)
-=> An ecosysteme simulation featuring : Terrain generation, pathfinding, genetic algorithm.
+<table>
+<tr>
+<td><b>🔗 Networks</b></td>
+<td>BGP routing & large-scale routing architecture</td>
+</tr>
+<tr>
+<td><b>📡 Protocols</b></td>
+<td>DNS specifications (RFCs)</td>
+</tr>
+<tr>
+<td><b>💰 Security</b></td>
+<td>Cybersecurity economics</td>
+</tr>
+<tr>
+<td><b>👁️ Vision</b></td>
+<td>Face embeddings</td>
+</tr>
+<tr>
+<td><b>✈️ Detection</b></td>
+<td>Flying object classification via trajectory analysis</td>
+</tr>
+<tr>
+<td><b>🤖 Behavior</b></td>
+<td>Behavioral bot detection</td>
+</tr>
+</table>
 
-🎨 [Color War](https://thecolorwar.netlify.app/)
-=> A /r place like website to host community event. 
+---
 
-⛰️ [Wave function collapse](https://7te3ep.github.io/WaveFunctionCollapse/)
-=> Demo of wave function collapse algorithm to generate procedurally terrain on a 2d grid
+## Neural networks from scratch
 
-🌲 [Random Fractal tree generator](https://7te3ep.github.io/fractalThreeGenerator/)
-=> Fractal tree generation using canvas js. With a custom animation
+I like re-implementing neural nets without frameworks — it forces you to actually understand what's happening.
 
-🖥️ [Fake terminal website](https://7te3ep.github.io/terminalJsCanvas/)
-=> Virtual terminal without any HTML, custom writing system.
+| Project | Stack | What it is |
+|---|---|---|
+| [selfDrivingCar](https://github.com/7te3ep/selfDrivingCar) | JS | Self-driving car with a hand-coded neural net |
+| [NeuralNetworkInC](https://github.com/7te3ep/NeuralNetworkInC) | C | Neural network implementation in pure C |
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/7te3ep"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="7te3ep" /></a></p><br><br>
+---
+
+## Some projects
+
+[Plant Together](https://plant-together.netlify.app/) · [Flappy Bird 3D](https://7te3ep.github.io/flappyRTX/) · [Geobro](https://geobro.online) · [Lapins Pas Cretins](https://7te3ep.github.io/Lapins_Pas_Cretins/sources/front/index.html) · [Wave Function Collapse](https://7te3ep.github.io/WaveFunctionCollapse/) · [Color War](https://thecolorwar.netlify.app/) · [Fake Terminal](https://7te3ep.github.io/terminalJsCanvas/) · [Fractal Tree Generator](https://7te3ep.github.io/fractalThreeGenerator/) · [Taoqartes](https://taoqan.fandom.com/fr/wiki/Les_Taoqartes) · [Night Pursuit](https://7te3ep.itch.io/night-pursuit)
+
+---
+
+## Stack & skills
+
+```
+Languages     JS (primary) · C · ASM (reverse)
+Web           Canvas API · Discord bots · REST APIs · Fullstack
+Data viz      D3.js · Chart.js · Turf.js
+Interests     Scraping · Heterogeneous data processing · Data analysis
+Networks      DNS · Traffic analysis · Protocol basics
+```
+
+---
+
+## Contact
+
+📬 [7te3ep@gmail.com](mailto:7te3ep@gmail.com) · Discord: `7te3ep`
+
+<div align="center">
+
+
+</div>
