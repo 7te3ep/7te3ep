@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](/banner.png)
+![banner](/banner_split.png)
 
 **`French dev · Curious about everything, privacy-obsessed`**
 
