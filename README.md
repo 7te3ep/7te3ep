@@ -2,13 +2,13 @@
 
 ![banner](/banner_split.png)
 
-**`French dev · Curious about everything, privacy-obsessed`**
+**`French dev · <3 Privacy & Space partitioning`**
 
 </div>
 
 ## whoami
 
-JS developer based in France. I'm drawn to everything that touches **privacy**, **data leakage**, and **side-channel attacks** — from timing attacks to traffic analysis, anything that reveals what shouldn't be visible.
+Developer based in France. I'm drawn to everything that touches **privacy**, **data leakage and scapping**, and **side-channel attacks**. Big fan of ecosystem simulations, mainly use Javascript.
 
 Lately I've been drifting toward the research side of things.
 
@@ -52,7 +52,7 @@ Currently digging into:
 
 ## Neural networks from scratch
 
-I like re-implementing neural nets without frameworks — it forces you to actually understand what's happening.
+I like re-implementing neural nets without frameworks — it forces you to actually understand what's happening. Soon I will try to implement backpropagation.
 
 | Project | Stack | What it is |
 |---|---|---|
